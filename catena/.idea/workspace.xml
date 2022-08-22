@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1953f04c-7457-4983-b194-228c31fe57b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2DY6t5jxzV5qGOgk8MiTFMqAbBO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CatenaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.darleydias.CatenaApplication" />
+      <module name="catena" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.darleydias.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CatenaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1953f04c-7457-4983-b194-228c31fe57b8" name="Default Changelist" comment="" />
+      <created>1660863881962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660863881962</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="200" width="585" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1660906757430">
+      <screen x="74" y="27" width="1292" height="741" />
+    </state>
+    <state x="432" y="200" width="585" height="397" key="#com.intellij.fileTypes.FileTypeChooser/74.27.1292.741@74.27.1292.741" timestamp="1660906757430" />
+    <state x="538" y="82" width="563" height="640" key="#com.intellij.ide.util.MemberChooser" timestamp="1661125188510">
+      <screen x="74" y="27" width="1292" height="741" />
+    </state>
+    <state x="538" y="82" width="563" height="640" key="#com.intellij.ide.util.MemberChooser/74.27.1292.741@74.27.1292.741" timestamp="1661125188510" />
+    <state x="74" y="27" width="664" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1660942680167">
+      <screen x="74" y="27" width="1292" height="741" />
+    </state>
+    <state x="74" y="27" width="664" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/74.27.1292.741@74.27.1292.741" timestamp="1660942680167" />
+    <state width="1246" height="345" key="GridCell.Tab.0.bottom" timestamp="1661137289545">
+      <screen x="74" y="27" width="1292" height="741" />
+    </state>
+    <state width="1226" height="186" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1661044145380" />
+    <state width="1246" height="345" key="GridCell.Tab.0.bottom/74.27.1292.741@74.27.1292.741" timestamp="1661137289545" />
+    <state width="1246" height="345" key="GridCell.Tab.0.center" timestamp="1661137289543">
+      <screen x="74" y="27" width="1292" height="741" />
+    </state>
+    <state width="1226" height="186" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1661044145379" />
+    <state width="1246" height="345" key="GridCell.Tab.0.center/74.27.1292.741@74.27.1292.741" timestamp="1661137289543" />
+    <state width="1246" height="345" key="GridCell.Tab.0.left" timestamp="1661137289541">
+      <screen x="74" y="27" width="1292" height="741" />
+    </state>
+    <state width="1226" height="186" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1661044145379" />
+    <state width="1246" height="345" key="GridCell.Tab.0.left/74.27.1292.741@74.27.1292.741" timestamp="1661137289541" />
+    <state width="1246" height="345" key="GridCell.Tab.0.right" timestamp="1661137289544">
+      <screen x="74" y="27" width="1292" height="741" />
+    </state>
+    <state width="1226" height="186" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1661044145379" />
+    <state width="1246" height="345" key="GridCell.Tab.0.right/74.27.1292.741@74.27.1292.741" timestamp="1661137289544" />
+    <state width="1246" height="249" key="GridCell.Tab.1.bottom" timestamp="1661125485886">
+      <screen x="74" y="27" width="1292" height="741" />
+    </state>
+    <state width="1226" height="198" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1661005862203" />
+    <state width="1246" height="249" key="GridCell.Tab.1.bottom/74.27.1292.741@74.27.1292.741" timestamp="1661125485886" />
+    <state width="1246" height="249" key="GridCell.Tab.1.center" timestamp="1661125485885">
+      <screen x="74" y="27" width="1292" height="741" />
+    </state>
+    <state width="1226" height="198" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1661005862202" />
+    <state width="1246" height="249" key="GridCell.Tab.1.center/74.27.1292.741@74.27.1292.741" timestamp="1661125485885" />
+    <state width="1246" height="249" key="GridCell.Tab.1.left" timestamp="1661125485885">
+      <screen x="74" y="27" width="1292" height="741" />
+    </state>
+    <state width="1226" height="198" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1661005862201" />
+    <state width="1246" height="249" key="GridCell.Tab.1.left/74.27.1292.741@74.27.1292.741" timestamp="1661125485885" />
+    <state width="1246" height="249" key="GridCell.Tab.1.right" timestamp="1661125485886">
+      <screen x="74" y="27" width="1292" height="741" />
+    </state>
+    <state width="1226" height="198" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1661005862202" />
+    <state width="1246" height="249" key="GridCell.Tab.1.right/74.27.1292.741@74.27.1292.741" timestamp="1661125485886" />
+    <state x="253" y="55" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1660865208832">
+      <screen x="74" y="27" width="1292" height="741" />
+    </state>
+    <state x="253" y="55" width="924" height="691" key="Maven.ArtifactSearchDialog/74.27.1292.741@74.27.1292.741" timestamp="1660865208832" />
+    <state x="219" y="27" width="1125" height="741" key="SettingsEditor" timestamp="1661137361243">
+      <screen x="74" y="27" width="1292" height="741" />
+    </state>
+    <state x="219" y="27" width="1125" height="741" key="SettingsEditor/74.27.1292.741@74.27.1292.741" timestamp="1661137361243" />
+    <state x="376" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1660869237470">
+      <screen x="74" y="27" width="1292" height="741" />
+    </state>
+    <state x="376" y="225" key="com.intellij.ide.util.TipDialog/74.27.1292.741@74.27.1292.741" timestamp="1660869237470" />
+    <state x="463" y="138" width="524" height="523" key="extract.method.dialog" timestamp="1661001394964">
+      <screen x="74" y="27" width="1292" height="741" />
+    </state>
+    <state x="463" y="138" width="524" height="523" key="extract.method.dialog/74.27.1292.741@74.27.1292.741" timestamp="1661001394964" />
+    <state x="0" y="27" width="710" height="741" key="find.popup" timestamp="1660876778557">
+      <screen x="74" y="27" width="1292" height="741" />
+    </state>
+    <state x="0" y="27" width="710" height="741" key="find.popup/74.27.1292.741@74.27.1292.741" timestamp="1660876778557" />
+    <state x="393" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1661009997064">
+      <screen x="74" y="27" width="1292" height="741" />
+    </state>
+    <state x="393" y="89" width="672" height="678" key="search.everywhere.popup/74.27.1292.741@74.27.1292.741" timestamp="1661009997064" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/catena$CatenaApplication.ic" NAME="CatenaApplication Coverage Results" MODIFIED="1660947264674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.github.darleydias.*</FILTER>
+    </SUITE>
+  </component>
+</project>
