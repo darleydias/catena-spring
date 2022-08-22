@@ -21,7 +21,14 @@ import java.util.Set;
 
 @SpringBootApplication
 public class CatenaApplication {
+    @Bean
+    public CommandLineRunner commandLineRunner(@Autowired Comarcas comarcas){
+        return args -> {
+            Comarca comarca = new Comarca("Curitiba","Especial",null);
+            comarcas.save(comarca);
+        };
 
+    }
     public static void main(String[] args) {
         SpringApplication.run(CatenaApplication.class,args);
     }
