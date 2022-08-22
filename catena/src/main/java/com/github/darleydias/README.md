@@ -1,5 +1,16 @@
 ### QueryMetods TA
 -----------
+
+### Intalação InteliJ
+
+sudo wget https://download.jetbrains.com/idea/ideaIC-2019.3.3-jbr8.tar.gz
+
+sudo ~/.config/autostart/jetbrains-toolbox.desktop
+
+Abrir "{installation home}/bin"
+
+Digitar: ./idea.sh
+ 
  
 #### GIT
 > git init 
@@ -9,7 +20,11 @@
 > git clone https://github.com/darleydias/aula-react.git
 > git config --global user.name "darleydias"
 > git config --global user.email "darlley@gmail.com"
-> 
+> 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
+>
+#### Pagina H2 - 
+
+> http://localhost:8000/catena/h2-console/login.do?jsessionid=9070234c0261d8b20e326328262a651a
 
 
 > sudo git checkout -b dev1
